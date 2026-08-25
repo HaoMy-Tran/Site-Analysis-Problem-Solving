@@ -62,3 +62,67 @@ Brainstorming solutions aligned with each Design Imperative:
   * This emerged as the **Most Powerful Imperative**—the core key to solving the root cause of the team's performance bottlenecks.
 
 ### 3. Imperative 3: The Need for a Solid Analysis Framework
+
+---
+<i>Vietnamese </i>
+### 1. Bối cảnh
+Brewia là một trong những chuỗi cà phê hàng đầu tại Việt Nam với mục tiêu mở rộng quy mô và thống lĩnh thị trường F&B đầy cạnh tranh. Để hiện thực hóa chiến lược này, khối **Expansion** đóng vai trò xương sống trong việc lập kế hoạch và triển khai mở mới cửa hàng (NSO - New Store Opened).
+
+Trong khối Expansion, nhiệm vụ trước đây được đảm nhận chung bởi một bộ phận. Tuy nhiên, vài năm trở lại đây, bộ phận này đã được tách bạch thành hai đội ngũ độc lập nhằm đảm bảo tính khách quan tối đa:
+* **Site Finding:** Tìm kiếm và đàm phán các mặt bằng tiềm năng.
+* **Site Analysis:** Đánh giá, phân tích độc lập hiệu quả kinh doanh của mặt bằng.
+
+Sự tách biệt này là vô cùng cần thiết. Thực tế cho thấy, các Site Finder thường có xu hướng đánh giá mặt bằng “hồng hóa” hơn thực tế để dự án nhanh chóng được duyệt—xuất phát từ động lực hoa hồng NSO và hoa hồng từ chủ nhà. Việc tách rời giúp Site Analysis giữ vững góc nhìn khách quan, bảo vệ hiệu quả đầu tư cho doanh nghiệp.
+
+Ra đời sau, **Site Analysis** sở hữu một đội ngũ trẻ trung (Freshers & Juniors). Họ là những cá nhân có tư duy nhạy bén, khả năng thích ứng cao và rất chủ động trước các bài toán khó.
+
+### 2. Vấn đề hiện diện
+Khi mới gia nhập team Site Analysis với vai trò phân tích mặt bằng, tôi nhận thấy team đang đứng trước một bài toán lớn: **Khối lượng công việc khổng lồ để đáp ứng target NSO rất cao cho năm tiếp theo.**
+
+Qua trao đổi với Team Leader và quan sát thực tế vận hành, tôi nhận diện được những "điểm nghẽn" nghiêm trọng đang làm giảm hiệu suất của cả đội:
+* **Thời gian thuyết trình kéo dài:** Mỗi buổi presentation đánh giá mặt bằng thường lê thê từ 30 phút đến hơn 1 tiếng.
+* **Lập luận thiếu vững chắc:** Các luận điểm thiếu tính logic, chưa đủ sức thuyết phục.
+* **Hiệu quả ra quyết định thấp:** Sau buổi thuyết trình, dàn Leaders vẫn không thể đưa ra quyết định cuối cùng (Solid Decision).
+* **Lãng phí nguồn lực:** Phải liên tục quay lại thu thập thêm dữ liệu và làm lại bản phân tích nhiều lần.
+
+Đứng trước bài toán này, thay vì áp dụng ngay các phương pháp giải quyết vấn đề truyền thống như *Hypothesis-driven* hay *Issue tree*, tôi quyết định chọn **Design Thinking** làm hướng tiếp cận chủ đạo vì hai lý do:
+1. **Đây là bài toán Human-Centered:** Nguyên nhân gốc rễ xuất phát từ chính góc nhìn và hành vi của các teammates. Giải pháp tạo ra sẽ do chính họ vận hành. Nếu áp đặt một quy trình logic cứng nhắc hay máy móc ngay từ đầu, team sẽ khó tiếp nhận.
+2. **Bối cảnh thông tin hạn chế:** Là một thành viên mới, tôi chưa có đủ dữ liệu ngành để lập tức đưa ra giả thuyết (Form Hypothesis) hay dựng một Issue Tree toàn diện. Nếu đi theo lối cũ, tôi rất dễ bị tắc nghẽn ngay ở bước xác định bài toán.
+
+Hiểu rõ bản chất vấn đề và bối cảnh của team, tôi nhận ra mình không thể bắt đầu bằng việc áp đặt ngay một bộ quy trình hay công cụ mới. Thay vào đó, tôi tiếp cận bài toán theo đúng tinh thần của Design Thinking: bắt đầu từ con người và đi qua từng giai đoạn cụ thể để gỡ rối từng nút thắt.
+
+#### Phase 1: Empathize (Thấu cảm)
+Mục tiêu của giai đoạn này là tìm hiểu sâu bản chất vấn đề dưới góc nhìn (POV) của các bạn Analysts. 
+
+Tôi trực tiếp tham gia các buổi thuyết trình, quan sát cách các bạn làm việc và chủ động lắng nghe chia sẻ của team sau mỗi buổi họp. Những ghi nhận thực tế bao gồm:
+* **Tâm lý hoang mang:** Các bạn bối rối không biết nên áp dụng hướng tiếp cận nào cho từng mặt bằng mới, vì cho rằng *"mỗi địa điểm có một tính chất riêng, không cái nào giống cái nào"*.
+* **Thiếu cơ sở lập luận:** Không đưa ra được chứng cứ hoặc logic đủ mạnh để bảo vệ quan điểm.
+* **Phân tích theo cảm tính:** Khi mất phương hướng, các bạn chọn cách *"freestyle"* bài phân tích theo góc nhìn cá nhân, dẫn đến kết quả thuyết minh không đạt yêu cầu.
+
+#### Phase 2: Define (Xác định vấn đề)
+Từ những dữ liệu định tính thu thập được, tôi tổng hợp thành **Empathy Map** cho đội ngũ Analyst:
+
+* **Think & Feel:** Các bạn đã nỗ lực nhưng cảm thấy việc phân tích quá vượt sức. Mỗi buổi thuyết trình kéo dài với Team Leader không khác gì một "cuộc chiến". Cảm giác bất lực xuất hiện mỗi khi bị chất vấn mà không thể đưa ra câu trả lời thỏa đáng.
+* **Pains:** Hoang mang vì không biết chọn khung phân tích nào; bất an vì không biết trả lời các câu hỏi phản biện của Leader ra sao.
+* **Gains:** Mong muốn rút ngắn thời gian presentation, giảm bớt áp lực trong phòng họp và không phải sửa đổi/bổ sung data nhiều lần sau đó.
+
+Từ Empathy Map, tôi đúc kết ra **3 Design Imperatives (Yêu cầu thiết kế giải pháp)**:
+1. Leader cần giảm bớt căng thẳng trong quá trình presentation.
+2. Bản thân các bạn Analysts cần rèn luyện tư duy logic và sự chi tiết (detail-oriented).
+3. Cần có một Framework phân tích chung chuẩn chỉnh để các analysts dựa vào.
+
+#### Phase 3: Ideate (Tạo ý tưởng)
+Đối chiếu với 3 Design Imperatives, tôi cùng team đào sâu tìm giải pháp:
+
+* **Xử lý Imperative 1 (Giảm căng thẳng do bị hỏi dồn):** 
+  * *Ý tưởng 1:* Giải thích lại chi tiết quy trình phân tích (Tuy nhiên, Leader đã làm nhiều lần nhưng vấn đề vẫn lặp lại).
+  * *Ý tưởng 2 (Đề xuất):* **Leader làm mẫu (Role-modeling)**. Trong các case khó, Leader sẽ trực tiếp demo cách tiếp cận, cách xử lý data và cách đưa ra kết luận logic để team học hỏi trực quan.
+* **Xử lý Imperative 2 (Rèn luyện tư duy logic):**
+  * Thực hiện các bài test logic định kỳ.
+  * Khuyến khích đọc thêm sách chuyên ngành.
+  * Thấu hiểu và tận dụng AI/Chatbot hỗ trợ phản biện góc nhìn.
+* **Xử lý Imperative 3 (Xây dựng Solid Analysis Framework):**
+  * Đây chính là **Design Imperative quan trọng nhất (Most Powerful Imperative)**—chìa khóa cốt lõi giúp giải quyết triệt để gốc rễ của mọi vấn đề.
+
+
+### 3. Imperative 3: The Need for a Solid Analysis Framework
