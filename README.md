@@ -2,10 +2,6 @@
 (updating...)<br> 
 
 <i>--scroll down for Vietnamese version--</i>
-<br>
-<p align="center">
-<img width="603" height="500" alt="unnamed" src="https://github.com/user-attachments/assets/2bda5598-0750-4abd-b1ae-be26157ea60b" />
-</p>
 
 ### 1. Setting the Context
 Brewia is a prominent coffee chain in Vietnam aiming to expand its footprint and dominate the highly competitive F&B landscape. To execute this growth strategy, the **Expansion** department serves as the backbone, handling all planning and execution for New Store Openings (NSO).
