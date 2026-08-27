@@ -1,7 +1,7 @@
 # Site Analysis's problem solving at Brewia: A Design thinking approach
 (updating...)<br> 
 
-<i>--scroll down for Vietnamese version--</i>
+<i>-- scroll down for Vietnamese version --</i>
 
 ### 1. Setting the Context
 Brewia is a prominent coffee chain in Vietnam aiming to expand its footprint and dominate the highly competitive F&B landscape. To execute this growth strategy, the **Expansion** department serves as the backbone, handling all planning and execution for New Store Openings (NSO).
@@ -10,12 +10,12 @@ Historically, expansion tasks were handled within a single unified team. However
 * **Site Finding:** Focuses on sourcing and negotiating potential locations.
 * **Site Analysis:** Focuses on independently evaluating and analyzing the financial and commercial viability of those sites.
 
-This separation was essential. In practice, Site Finders tend to overvalue prospective sites to push deals through—driven by commission incentives per NSO and potential commissions from landlords. Separating these roles allows Site Analysis to maintain an objective perspective and protect the company’s return on investment.
+This separation was essential. In practice, Site Finders tend to overvalue prospective sites to push deals through, driven by commission incentives per NSO and potential commissions from landlords. Separating these roles allows Site Analysis to maintain an objective perspective and protect the company’s return on investment.
 
 As a newly formed team, **Site Analysis** consists of a young, dynamic team of Freshers and Juniors. They are quick learners, highly adaptable, and proactive when facing complex challenges.
 
-### 2. Problems Arise
-When I joined the Site Analysis team as a location analyst, I immediately noticed a massive challenge ahead: **handling a heavy workload to meet Brewia's ambitious NSO targets for the upcoming year.**
+### 2. Problems Arising
+When I joined the Site Analysis team as a site analyst, I immediately noticed a massive challenge ahead: **handling a heavy workload to meet Brewia's ambitious NSO targets for the upcoming year.**
 
 Through conversations with the Team Leader and observing daily operations, I identified critical bottlenecks slowing down the team's efficiency:
 * **Lengthy Presentations:** Site evaluation presentations were dragging on from 30 minutes to well over an hour per location.
@@ -27,22 +27,54 @@ Faced with these challenges, rather than jumping straight into traditional probl
 1. **This is a Human-Centered Problem:** The root causes stem directly from the team members' perspectives, habits, and mindsets. The ultimate solutions will be used by people. Imposing a rigid, mechanical framework right away would feel overly prescriptive and ineffective.
 2. **Limited Initial Context:** As a new joiner, I lacked deep domain experience to form well-grounded hypotheses or construct a comprehensive issue tree from day one. Relying strictly on traditional methods risked getting stuck at the initial step: defining the problem.
 
-Understanding the nature of the challenge and the team's dynamics, I realized I couldn't start by enforcing new processes or tools right away. Instead, I approached the problem through the lens of Design Thinking: starting with human empathy and navigating through each phase to uncover the real bottlenecks.
+Understanding the nature of the challenge and the team's dynamics, I realized I couldn't start by enforcing new processes or tools right away. Instead, I approached the problem through the lens of Design Thinking: starting with human empathy and navigating through each phase to uncover the real problems.
 
 ### Phase 1: Empathize
-The objective of this phase was to gain a deeper understanding of the problem from the POV (Point of View) of the analysts.
 
-I actively observed several presentation sessions and engaged in candid follow-up conversations with team members. Key findings included:
-* **Confusion and Uncertainty:** Analysts struggled to determine the right analytical framework for new locations, often believing that *"every site is unique, with no two locations being the same."*
-* **Weak Reasoning:** Arguments lacked robust evidence and backing rationale.
-* **Reliance on Intuition:** Lacking a structured framework, analysts resorted to *"freestyling"* their analyses based on personal gut feel, which rarely yielded strong outcomes.
+#### 1. Receiving the Initial Design Brief
+Upon joining the team, the Team Leader presented me with a clear Design Brief: **"Develop a solution to enhance the speed and quality of site evaluations within the Analyst team, enabling us to hit Brewia's aggressive NSO expansion targets for the upcoming year."**
 
-### Phase 2: Define
-Synthesizing these qualitative insights, I mapped out an **Empathy Map** for the analyst team:
+#### 2. Empathy Research Activities
+To gain an objective understanding of the current state without imposing personal bias, I gathered raw qualitative data from both key stakeholder groups (Analysts and Leaders) through three core activities:
 
-* **Think & Feel:** Analysts were trying hard, but analytical work felt overwhelming. Long presentation meetings with the Team Leader felt like a "battlefield." They felt helpless when put on the spot without clear answers.
-* **Pains:** Uncertainty over which framework to use; anxiety about handling tough counter-questions from the Team Leader.
-* **Gains:** A desire to shorten presentation times, reduce meeting friction, and eliminate post-presentation re-work.
+* **Shadowing:** Attended live site evaluation presentations to observe team dynamics, non-verbal cues, line of questioning, and real-time friction points between the Leader and Analysts.
+* **1-on-1 Deep-dive Interviews:** Conducted open-ended sessions with individual Analysts to explore their daily workflow, how they initiate site research, and their candid post-presentation experiences.
+* **Stakeholder Alignment:** Interviewed the Team Leader to establish clear expectations for a robust analysis and identify recurring deal-breakers that prevent solid decision-making.
+
+#### 3. Raw Observations & Direct Quotes
+
+* **Direct Quotes from Analysts:**
+  * *"Every location feels unique, so I rarely know which approach or framework to apply first."*
+  * *"When I don't know how to structure the analysis, I end up 'freestyling' based on intuition."*
+  * *"The hour-long presentations feel like a battleground. I feel helpless when grilled on details I don't know how to address."*
+* **Feedback from the Team Leader:**
+  * *"The presentations are lengthy, yet the arguments remain fragmented and lack logical coherence."*
+  * *"We waste significant time post-presentation re-collecting data because the initial submission fails to build a convincing case."*
+* **Observed Behaviors in Meetings:**
+  * Presentation sessions routinely stretched from 30 minutes to well over an hour.
+  * Analysts frequently struggled when pressed to connect trade zone potential directly with site-level financial feasibility.
+
+By synthesizing the raw qualitative data and direct quotes gathered in Phase 1, I constructed an **Empathy Map** to uncover the core problems beneath the surface-level symptoms.
+
+#### 1. Empathy Map
+* **Says:**
+  * *"Every location feels unique, so I rarely know which approach to apply first."*
+  * *"When I don't have a clear structure, I end up 'freestyling' the analysis based on intuition."*
+* **Thinks & Feels:**
+  * Feels helpless and anxious when grilled by the Leader during presentations.
+  * Perceives complex site analysis as beyond their current capabilities.
+  * Views lengthy presentation sessions as intense "battles" rather than collaborative discussions.
+* **Pains:**
+  * Lack of a standardized analytical framework to rely on.
+  * Wasted time and effort on constant rework and post-meeting data gathering.
+  * Severe psychological pressure during project defense sessions.
+* **Gains:**
+  * Shorter presentation times (reduced from >1 hour to 15–20 minutes).
+  * Confidence in defending analytical arguments with solid logic.
+  * Stress-free review meetings that lead to solid, actionable decisions on the first pass.
+
+#### 2. Problem Statement (Point of View - POV)
+> **"Junior Analysts need a standardized analytical framework and a supportive interaction environment because they currently lack a logical guide to convert raw data into compelling arguments, causing lengthy evaluation meetings and delayed decision-making."**
 
 From the Empathy Map, I derived **3 key Design Imperatives**:
 1. Reduce stress and tension during presentation sessions.
@@ -60,7 +92,7 @@ Brainstorming solutions aligned with each Design Imperative:
   * Encourage relevant domain reading.
   * Leverage AI/Chatbots to stress-test and challenge analytical perspectives.
 * **Addressing Imperative 3 (Establish a Solid Analysis Framework):**
-  * This emerged as the **Most Powerful Imperative**—the core key to solving the root cause of the team's performance bottlenecks.
+  * This emerged as the **Most Powerful Imperative**, the core key to solving the root cause of the team's performance bottlenecks.
 
 ### 3. Imperative 3: The Need for a Solid Analysis Framework
 <img width="1167" height="175" alt="image" src="https://github.com/user-attachments/assets/49e83e20-7371-4d7c-a29b-55e7f15357b1" />
@@ -71,7 +103,7 @@ To understand why the Analysts team frequently felt confused, I systematically d
 *   **Area:** Concentrates on analyzing the customer source (both quality and volume) within a 500m - 1000m radius around the site. Key methods include calculating target customer classes, benchmarking competitors and nearby stores, and analyzing traffic generators (schools, office buildings, tourist spots) alongside surrounding business activities.  
     $$\rightarrow \text{Area measures the \textbf{maximum potential} of the trade zone.}$$
 *   **Site:** Evaluates intrinsic site attributes (excluding demographic/customer factors), such as physical facilities, visibility, accessibility, and site grade within the area.  
-    $$\rightarrow \text{Site measures the \textbf{catchment capability}—how effectively the site captures Area potential.}$$
+    $$\rightarrow \text{Site measures the \textbf{catchment capability}: how effectively the site captures Area potential.}$$
 *   **Forecasted Revenue:** Revenue projection built on analog Brewia stores with similar trade zones, store formats, and customer profiles. Analysts typically present this to Leaders to secure a preliminary **GO** or **REJECT** decision.
 *   **Financial Feasibility:** Integrates the forecasted revenue into the *Box of Economics* to evaluate CAPEX against revenue generation capability, establishing a ceiling rent for landlord negotiations.
 
@@ -131,7 +163,7 @@ Trong khối Expansion, nhiệm vụ trước đây được đảm nhận chung
 * **Site Finding:** Tìm kiếm và đàm phán các mặt bằng tiềm năng.
 * **Site Analysis:** Đánh giá, phân tích độc lập hiệu quả kinh doanh của mặt bằng.
 
-Sự tách biệt này là vô cùng cần thiết. Thực tế cho thấy, các Site Finder thường có xu hướng đánh giá mặt bằng “hồng hóa” hơn thực tế để dự án nhanh chóng được duyệt—xuất phát từ động lực hoa hồng NSO và hoa hồng từ chủ nhà. Việc tách rời giúp Site Analysis giữ vững góc nhìn khách quan, bảo vệ hiệu quả đầu tư cho doanh nghiệp.
+Sự tách biệt này là vô cùng cần thiết. Thực tế cho thấy, các Site Finder thường có xu hướng đánh giá mặt bằng “hồng hóa” hơn thực tế để dự án nhanh chóng được duyệt, xuất phát từ động lực hoa hồng NSO và hoa hồng từ chủ nhà. Việc tách rời giúp Site Analysis giữ vững góc nhìn khách quan, bảo vệ hiệu quả đầu tư cho doanh nghiệp.
 
 Ra đời sau, **Site Analysis** sở hữu một đội ngũ trẻ trung (Freshers & Juniors). Họ là những cá nhân có tư duy nhạy bén, khả năng thích ứng cao và rất chủ động trước các bài toán khó.
 
@@ -151,19 +183,54 @@ Qua trao đổi với Team Leader và quan sát thực tế vận hành, tôi nh
 Hiểu rõ bản chất vấn đề và bối cảnh của team, tôi nhận ra mình không thể bắt đầu bằng việc áp đặt ngay một bộ quy trình hay công cụ mới. Thay vào đó, tôi tiếp cận bài toán theo đúng tinh thần của Design Thinking: bắt đầu từ con người và đi qua từng giai đoạn cụ thể để gỡ rối từng nút thắt.
 
 ### Phase 1: Empathize (Thấu cảm)
-Mục tiêu của giai đoạn này là tìm hiểu sâu bản chất vấn đề dưới góc nhìn (POV) của các bạn Analysts. 
 
-Tôi trực tiếp tham gia các buổi thuyết trình, quan sát cách các bạn làm việc và chủ động lắng nghe chia sẻ của team sau mỗi buổi họp. Những ghi nhận thực tế bao gồm:
-* **Tâm lý hoang mang:** Các bạn bối rối không biết nên áp dụng hướng tiếp cận nào cho từng mặt bằng mới, vì cho rằng *"mỗi địa điểm có một tính chất riêng, không cái nào giống cái nào"*.
-* **Thiếu cơ sở lập luận:** Không đưa ra được chứng cứ hoặc logic đủ mạnh để bảo vệ quan điểm.
-* **Phân tích theo cảm tính:** Khi mất phương hướng, các bạn chọn cách *"freestyle"* bài phân tích theo góc nhìn cá nhân, dẫn đến kết quả thuyết minh không đạt yêu cầu.
+#### 1. Tiếp nhận Design Brief ban đầu
+Đề bài (Design Brief) được Team Leader đặt ra cho tôi là: **"Tìm giải pháp nâng cao hiệu suất và chất lượng phân tích mặt bằng của đội ngũ Analysts, nhằm đáp ứng mục tiêu mở rộng NSO khổng lồ cho năm tiếp theo."**
+
+#### 2. Các hoạt động nghiên cứu thấu cảm (Empathy Research Activities)
+Để hiểu rõ bức tranh thực tế mà không đưa ra bất kỳ định kiến cá nhân nào, tôi tiến hành thu thập dữ liệu thô từ hai nhóm đối tượng chính (Analysts và Leaders) thông qua 3 hoạt động:
+
+* **Quan sát thực tế:** Trực tiếp tham dự các buổi thuyết trình đánh giá mặt bằng, ghi chép lại phản ứng, biểu cảm, luồng tương tác và các tình huống phát sinh giữa Leader và Analysts.
+* **Phỏng vấn sâu 1-1:** Trò chuyện cởi mở với từng bạn Analyst để lắng nghe chia sẻ về khối lượng công việc hàng ngày, cách các bạn bắt đầu bài phân tích, và cảm xúc thực sự sau mỗi buổi presentation.
+* **Lắng nghe phía Management:** Phỏng vấn Team Leader để làm rõ các tiêu chí kỳ vọng (expectations) đối với một bài phân tích chuẩn mực và những "điểm nghẽn" khiến Leader chưa thể đưa ra quyết định chốt mặt bằng (Solid Decision).
+
+#### 3. Dữ liệu thô thu thập được (Raw Data & Direct Quotes)
+
+* **Trích dẫn trực tiếp từ Analysts:**
+  * *"Mỗi địa điểm lại mang một tính chất khác nhau, không cái nào giống cái nào nên em không biết phải bắt đầu từ đâu."*
+  * *"Khi không biết dùng khung nào để phân tích, em đành freestyle bài viết theo góc nhìn cá nhân."*
+  * *"Mỗi buổi thuyết trình kéo dài cả tiếng đồng hồ với Leader giống như một cuộc chiến. Em cảm thấy bất lực khi bị hỏi dồn mà không biết trả lời làm sao."*
+* **Ghi nhận từ phía Leader:**
+  * *"Analysts dành nhiều thời gian giải trình nhưng luận điểm vẫn bị lan man, thiếu tính kết nối logic."*
+  * *"Sau mỗi buổi họp, team lại phải mất thêm nhiều ngày để đi thu thập bổ sung data vì bản phân tích ban đầu chưa đủ thuyết phục."*
+* **Hành vi quan sát được trong phòng họp:**
+  * Các buổi presentation thường xuyên kéo dài từ 30 phút đến hơn 1 tiếng.
+  * Analysts thường bị lúng túng khi Leader truy vấn về mối quan hệ giữa tiềm năng khu vực và hiệu quả tài chính của mặt bằng.
 
 ### Phase 2: Define (Xác định vấn đề)
-Từ những dữ liệu định tính thu thập được, tôi tổng hợp thành **Empathy Map** cho đội ngũ Analyst:
 
-* **Think & Feel:** Các bạn đã nỗ lực nhưng cảm thấy việc phân tích quá vượt sức. Mỗi buổi thuyết trình kéo dài với Team Leader không khác gì một "cuộc chiến". Cảm giác bất lực xuất hiện mỗi khi bị chất vấn mà không thể đưa ra câu trả lời thỏa đáng.
-* **Pains:** Hoang mang vì không biết chọn khung phân tích nào; bất an vì không biết trả lời các câu hỏi phản biện của Leader ra sao.
-* **Gains:** Mong muốn rút ngắn thời gian presentation, giảm bớt áp lực trong phòng họp và không phải sửa đổi/bổ sung data nhiều lần sau đó.
+Từ những dữ liệu thô và ghi nhận trực tiếp ở Phase 1, tôi bắt đầu phân tích, tổng hợp thành **Empathy Map** để xác định đúng bản chất vấn đề đằng sau những biểu hiện bề ngoài.
+
+#### 1. Empathy Map (Sơ đồ thấu cảm)
+
+* **Says (Nói):**
+  * *"Mỗi mặt bằng có một đặc thù riêng nên em không biết phải bắt đầu phân tích từ đâu."*
+  * *"Khi không biết dùng quy chuẩn nào, em đành làm bài phân tích theo cảm nhận cá nhân (freestyle)."*
+* **Thinks & Feels (Nghĩ & Cảm thấy):**
+  * Cảm thấy bất lực và hoang mang mỗi khi bị Leader chất vấn trong phòng họp.
+  * Cảm thấy việc phân tích các case khó vượt quá khả năng tư duy hiện tại.
+  * Coi mỗi buổi presentation kéo dài là một "cuộc chiến" căng thẳng thay vì một buổi thảo luận chiến lược.
+* **Pains (Điểm đau):**
+  * Thiếu một khung tư duy (*framework*) chuẩn chỉnh để làm điểm tựa phân tích.
+  * Lãng phí thời gian và công sức khi phải liên tục bổ sung dữ liệu và sửa bài nhiều lần.
+  * Áp lực tâm lý nặng nề trong các buổi bảo vệ dự án với Leader.
+* **Gains (Mong muốn):**
+  * Rút ngắn thời gian thuyết trình (từ >1 tiếng xuống còn 15–20 phút).
+  * Tự tin bảo vệ các luận điểm phân tích với lập luận vững chắc.
+  * Buổi thuyết trình diễn ra nhẹ nhàng, đạt được quyết định chốt mặt bằng (*Solid Decision*) ngay từ lần đầu.
+
+#### 2. Problem Statement (Tuyên bố vấn đề - POV)
+> **"Đội ngũ Analysts trẻ (Freshers/Juniors) cần một khung tư duy phân tích chuẩn hóa và môi trường tương tác hiệu quả, bởi vì họ đang thiếu một 'kim chỉ nam' logic để chuyển hóa dữ liệu thô thành các lập luận thuyết phục, dẫn đến các buổi bảo vệ dự án bị kéo dài và Leader chưa thể đưa ra quyết định."**
 
 Từ Empathy Map, tôi đúc kết ra **3 Design Imperatives (Yêu cầu thiết kế giải pháp)**:
 1. Leader cần giảm bớt căng thẳng trong quá trình presentation.
@@ -181,7 +248,7 @@ Từ Empathy Map, tôi đúc kết ra **3 Design Imperatives (Yêu cầu thiết
   * Khuyến khích đọc thêm sách chuyên ngành.
   * Thấu hiểu và tận dụng AI/Chatbot hỗ trợ phản biện góc nhìn.
 * **Xử lý Imperative 3 (Xây dựng Solid Analysis Framework):**
-  * Đây chính là **Design Imperative quan trọng nhất (Most Powerful Imperative)**—chìa khóa cốt lõi giúp giải quyết triệt để gốc rễ của mọi vấn đề.
+  * Đây chính là **Design Imperative quan trọng nhất (Most Powerful Imperative)**: chìa khóa cốt lõi giúp giải quyết triệt để gốc rễ của mọi vấn đề.
 
 
 ### 3. Imperative 3: Sự cần thiết cho một Khung phân tích hoàn chỉnh
