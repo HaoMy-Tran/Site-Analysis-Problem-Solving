@@ -95,7 +95,7 @@ Brainstorming solutions aligned with each Design Imperative:
   * This emerged as the **Most Powerful Imperative**, the core key to solving the root cause of the team's performance bottlenecks.
 
 ### 3. Imperative 3: The Need for a Solid Analysis Framework
-<img width="1167" height="175" alt="image" src="https://github.com/user-attachments/assets/49e83e20-7371-4d7c-a29b-55e7f15357b1" />
+<img width="1107" height="167" alt="image" src="https://github.com/user-attachments/assets/684b06fc-1574-49ba-80b6-834c2666d419" />
 
 To understand why the Analysts team frequently felt confused, I systematically deconstructed the core meaning of each metric within the legacy flow:
 
@@ -256,7 +256,8 @@ Từ Empathy Map, tôi đúc kết ra **3 Design Imperatives (Yêu cầu thiết
 ### Bóc tách & Nhận diện Điểm yếu của Framework Cũ (Legacy Structure)
 
 Quy trình phân tích cũ được vận hành như sau: <br><br>
-<img width="1167" height="226" alt="image" src="https://github.com/user-attachments/assets/f4b6aa91-d49e-44d6-94d4-ea104493e06b" />
+<img width="1107" height="202" alt="image" src="https://github.com/user-attachments/assets/75bd09dd-3012-45dc-8dcc-4c7995be5487" />
+
 Để hiểu tại sao đội ngũ Analysts thường xuyên bối rối, tôi tiến hành bóc tách ý nghĩa bản chất của từng chỉ số trong quy trình cũ:
 
 *   **Market (Thị trường):** Đo lường độ hấp dẫn tổng quan và cơ hội vĩ mô. Phân tích Market thuộc trách nhiệm chính của team Strategy để đề xuất số lượng store mở mới. Team Site Analysis chủ yếu tập trung vào 2 cấp độ vi mô hơn: Area và Site.
