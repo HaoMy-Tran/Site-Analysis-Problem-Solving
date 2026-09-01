@@ -124,7 +124,7 @@ To solve these issues at the root, I redesigned the workflow by integrating a **
 <img width="1140" height="250" alt="image" src="https://github.com/user-attachments/assets/5042dfed-4c57-497a-b443-5484a8c77e30" />
 
 Logic-Gated Criteria:
-<img width="980" height="310" alt="image" src="https://github.com/user-attachments/assets/ea263aec-609d-4ffc-982f-75440bc3274d" />
+<img width="980" height="307" alt="image" src="https://github.com/user-attachments/assets/ac2bf498-8d4e-4dc0-b09a-4b57fec76593" />
 
 Deep Dive into Framework Components
 
@@ -284,7 +284,7 @@ Thiết Kế lại Framework:
 
 Ma Trận Logic Giữa Các Điều Kiện: <br><br>
 
-<img width="982" height="311" alt="image" src="https://github.com/user-attachments/assets/5d8f19ae-a4ff-4c35-95db-8d09ce366888" />
+<img width="977" height="307" alt="image" src="https://github.com/user-attachments/assets/f3f54afb-d04f-4ac0-b3c3-ecab215e2dcc" />
 
 Chi Tiết Các Thành Phần Trong Framework Mới
 
