@@ -284,7 +284,7 @@ Thiết Kế lại Framework:
 
 Ma Trận Logic Giữa Các Điều Kiện: <br><br>
 
-<img width="977" height="307" alt="image" src="https://github.com/user-attachments/assets/f3f54afb-d04f-4ac0-b3c3-ecab215e2dcc" />
+<img width="977" height="311" alt="image" src="https://github.com/user-attachments/assets/3ce48a34-7e04-4769-921c-c46faf367ea7" />
 
 Chi Tiết Các Thành Phần Trong Framework Mới
 
