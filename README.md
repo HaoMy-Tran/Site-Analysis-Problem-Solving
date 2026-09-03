@@ -1,6 +1,8 @@
 # Site Analysis's problem solving at Brewia: A Design thinking approach
 (updating...)<br> 
 
+tags: `design thinking`, `logical thinking`, `hypothesis-driven problem solving`, `F&B`, `site analysis` <br> 
+
 <i>-- scroll down for Vietnamese version --</i>
 
 ### 1. Setting the Context
