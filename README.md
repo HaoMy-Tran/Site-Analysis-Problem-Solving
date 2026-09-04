@@ -57,7 +57,8 @@ To gain an objective understanding of the current state without imposing persona
   * The analysts' arguments lack solid evidence, with some relying heavily on gut feeling
   * The insights discovered by the analysts are localized and scattered, lacking the storytelling cohesion needed to build a compelling analysis
   * When issues arise with an analysis, leaders often ask a series of probing questions to clarify details and root out the cause. However, rapid-fire questioning paired with long silences when analysts can't answer often makes the presentation tense
-
+  * 
+### Phase 2: Define
 By synthesizing the raw qualitative data and direct quotes gathered in Phase 1, I constructed an **Empathy Map** to uncover the core problems beneath the surface-level symptoms
 
 #### 1. Empathy Map
