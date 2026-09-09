@@ -57,7 +57,7 @@ To gain an objective understanding of the current state without imposing persona
   * The analysts' arguments lack solid evidence, with some relying heavily on gut feeling
   * The insights discovered by the analysts are localized and scattered, lacking the storytelling cohesion needed to build a compelling analysis
   * When issues arise with an analysis, leaders often ask a series of probing questions to clarify details and root out the cause. However, rapid-fire questioning paired with long silences when analysts can't answer often makes the presentation tense
-  * 
+    
 ### Phase 2: Define
 By synthesizing the raw qualitative data and direct quotes gathered in Phase 1, I constructed an **Empathy Map** to uncover the core problems beneath the surface-level symptoms
 
@@ -160,30 +160,30 @@ Deep Dive into Framework Components
 
 
 ### 1. Bối cảnh
-Brewia là một trong những chuỗi cà phê hàng đầu tại Việt Nam với mục tiêu mở rộng quy mô và thống lĩnh thị trường F&B đầy cạnh tranh. Để hiện thực hóa chiến lược này, khối **Expansion** đóng vai trò xương sống trong việc lập kế hoạch và triển khai mở mới cửa hàng (NSO - New Store Opened)
+Brewia là một trong những chuỗi cà phê hàng đầu tại Việt Nam với mục tiêu mở rộng quy mô và thống lĩnh thị trường F&B đầy cạnh tranh. Để hiện thực hóa chiến lược này, team **Expansion** đóng vai trò xương sống trong việc lập kế hoạch và triển khai mở mới cửa hàng (NSO - New Store Opened)
 
-Trong khối Expansion, nhiệm vụ trước đây được đảm nhận chung bởi một bộ phận. Tuy nhiên, vài năm trở lại đây, bộ phận này đã được tách bạch thành hai teams độc lập nhằm đảm bảo tính khách quan tối đa:
+Trong team Expansion, nhiệm vụ trước đây được đảm nhận chung bởi một bộ phận duy nhất. Tuy nhiên, vài năm trở lại đây, bộ phận này đã được tách bạch thành hai teams độc lập nhằm đảm bảo tính khách quan tối đa:
 * **Site Finding:** Tìm kiếm và đàm phán các mặt bằng tiềm năng
 * **Site Analysis:** Đánh giá, phân tích độc lập hiệu quả kinh doanh của mặt bằng
 
-Sự tách biệt này là vô cùng cần thiết. Thực tế cho thấy, các Site Finder thường có xu hướng đánh giá mặt bằng “lý tưởng hóa” hơn thực tế để dự án nhanh chóng được duyệt, nhận hoa hồng NSO từ Brewia và (có khả năng) hoa hồng từ chủ nhà. Việc tách rời giúp Site Analysis giữ vững góc nhìn khách quan, bảo vệ hiệu quả đầu tư cho doanh nghiệp
+Sự tách biệt này là vô cùng cần thiết. Thực tế cho thấy, các Site Finder thường có xu hướng đánh giá mặt bằng “lý tưởng hóa” hơn thực tế để dự án nhanh chóng được duyệt, nhận hoa hồng NSO từ Brewia và (có khả năng) hoa hồng từ chủ nhà. Việc tách rời này giúp cho các chiến lược mở rộng chuỗi cửa hàng của team Expansion giữ vững góc nhìn khách quan, bảo vệ hiệu quả đầu tư cho Brewia
 
-Ra đời sau, **Site Analysis** sở hữu một đội ngũ trẻ trung (Freshers & Juniors). Họ là những cá nhân có tư duy nhạy bén, khả năng thích ứng cao và rất chủ động trước các bài toán khó
+Tuy thành lập sau, **Site Analysis** team sở hữu một đội ngũ trẻ trung bao gồm các bạn SA là các Freshers/Juniors có tư duy nhạy bén, khả năng thích ứng cao và rất chủ động trước các bài toán khó
 
-### 2. Vấn đề hiện diện
-Khi mới gia nhập team Site Analysis với vai trò của một Site Analyst (level 3), tôi nhận thấy team đang đứng trước một bài toán lớn: **Khối lượng công việc khổng lồ để đáp ứng target NSO rất cao cho năm tiếp theo.**
+### 2. Vấn đề
+Khi mới gia nhập team Site Analysis với vai trò của một Site Analyst (middle), tôi nhận thấy team đang đứng trước một bài toán lớn: **Khối lượng công việc khổng lồ để đáp ứng target NSO đầy tham vọng của Brewia cho năm tiếp theo.**
 
-Qua trao đổi với Team Leader và quan sát thực tế vận hành, một số "điểm nghẽn" đang làm giảm hiệu suất của team đang được team leader đề cập như sau:
-* **Thời gian thuyết trình kéo dài:** Mỗi buổi presentation đánh giá thường kéo dài khá lâu, từ 30 phút đến hơn 1 tiếng
-* **Lập luận thiếu vững chắc:** Các luận điểm thiếu tính logic, chưa đủ sức thuyết phục
+Qua trao đổi với Team Leader và quan sát thực tế công việc, một số "điểm nghẽn" đang làm giảm hiệu suất của team đang được team leader đề cập như sau:
+* **Thời gian thuyết trình kéo dài:** Mỗi buổi presentation đánh giá mặt bằng thường kéo dài khá lâu, từ 30 phút đến hơn 1 tiếng
+* **Lập luận thiếu vững chắc:** Các luận điểm của SAs thiếu tính logic, chưa đủ sức thuyết phục
 * **Hiệu quả ra quyết định thấp:** Sau buổi thuyết trình, team Leader vẫn không thể đưa ra quyết định cuối cùng (Solid Decision)
 * **Lãng phí nguồn lực:** Phải liên tục quay lại thu thập thêm dữ liệu và làm lại bản phân tích nhiều lần
 
-Đứng trước bài toán này, thay vì áp dụng ngay các phương pháp giải quyết vấn đề truyền thống như *Hypothesis-driven* hay *Issue tree*, tôi quyết định chọn **Design Thinking** làm hướng tiếp cận chủ đạo vì hai lý do:
-1. **Đây là bài toán Human-Centered:** Nguyên nhân gốc rễ xuất phát từ chính góc nhìn và hành vi của các teammates. Giải pháp tạo ra sẽ do chính họ vận hành. Nếu áp đặt một quy trình logic cứng nhắc hay máy móc ngay từ đầu, team sẽ khó tiếp cận
-2. **Bối cảnh thông tin hạn chế:** Là một thành viên mới, tôi chưa có đủ dữ liệu ngành để lập tức đưa ra giả thuyết (Form Hypothesis) hay dựng một Issue Tree toàn diện. Nếu đi theo lối cũ, tôi có thể gặp nhiều khó khăn/sai luôn ở bước đầu tiên: xác định vấn đề
+Đứng trước bài toán này, thay vì áp dụng ngay các phương pháp giải quyết vấn đề truyền thống như *Hypothesis-driven* hay *Issue tree*, tôi quyết định chọn **Design Thinking** làm hướng tiếp cận chính vì hai lý do sau:
+1. **Đây là bài toán có nhiều yếu tố về con người (humand-centered):** Nguyên nhân gốc rễ xuất phát từ chính góc nhìn và hành vi của các bạn team members. Giải pháp tạo ra sẽ do chính họ vận hành. Nếu áp đặt một quy trình logic cứng nhắc hay máy móc ngay từ đầu, team sẽ khó tiếp cận
+2. **Bối cảnh thông tin hạn chế:** Là một thành viên mới, tôi chưa có đủ dữ liệu và kinh nghiệm để có thể đưa ra được một giả thuyết (Form Hypothesis) hay dựng một Issue Tree toàn diện. Nếu đi theo những phương pháp này, tôi có thể gặp nhiều khó khăn/sai luôn ở bước đầu tiên: xác định vấn đề
 
-Hiểu rõ bản chất vấn đề và bối cảnh của team, tôi nhận ra mình không thể bắt đầu bằng việc áp đặt ngay một bộ quy trình hay công cụ mới. Thay vào đó, tôi tiếp cận bài toán theo đúng tinh thần của Design Thinking: bắt đầu từ con người và đi qua từng giai đoạn cụ thể để gỡ rối từng nút thắt:
+Từ những nhìn nhận trên, tôi tiếp cận bài toán theo đúng tinh thần của Design Thinking: bắt đầu từ con người và đi qua từng giai đoạn cụ thể để gỡ rối từng nút thắt:
 
 ### Phase 1: Empathize (Thấu cảm)
 
@@ -191,9 +191,9 @@ Hiểu rõ bản chất vấn đề và bối cảnh của team, tôi nhận ra 
 Đề bài (Design Brief) được Team Leader đặt ra cho tôi là: **"Tìm giải pháp nâng cao hiệu suất và chất lượng phân tích mặt bằng của đội ngũ Analysts, nhằm đáp ứng mục tiêu mở rộng NSO cho năm tiếp theo."**
 
 #### 2. Các hoạt động nghiên cứu thấu cảm (Empathy Research Activities)
-Để hiểu rõ bức tranh thực tế mà không đưa ra bất kỳ định kiến cá nhân nào, tôi tiến hành thu thập dữ liệu thô từ hai nhóm đối tượng chính (Analysts và Leaders) thông qua 3 hoạt động:
+Để hiểu rõ bức tranh thực tế mà không đưa ra bất kỳ định kiến cá nhân nào, tôi tiến hành thu thập dữ liệu từ hai nhóm đối tượng chính (Analysts và Leaders) thông qua 3 hoạt động:
 
-* **Quan sát thực tế:** Trực tiếp tham dự các buổi thuyết trình, ghi chép lại phản ứng, biểu cảm, luồng tương tác và các tình huống phát sinh giữa Leader và Analysts
+* **Quan sát thực tế:** Trực tiếp tham dự các buổi thuyết trình, ghi chép lại phản ứng, biểu cảm, tương tác và các tình huống phát sinh giữa Leader và Analysts
 * **Phỏng vấn 1-1:** Trò chuyện với từng bạn Analyst để lắng nghe chia sẻ về khối lượng công việc hàng ngày, cách các bạn bắt đầu bài phân tích, và cảm xúc thực sự sau mỗi buổi presentation
 * **Lắng nghe phía Management:** Trao đổi với Team Leader để làm rõ các tiêu chí kỳ vọng (expectations) đối với một bài phân tích chuẩn mực và những "điểm nghẽn" khiến Leader chưa thể đưa ra quyết định đi hay từ chối địa điểm phân tích (Solid Decision)
 
@@ -214,7 +214,7 @@ Hiểu rõ bản chất vấn đề và bối cảnh của team, tôi nhận ra 
 
 ### Phase 2: Define (Xác định vấn đề)
 
-Từ những dữ liệu thô và ghi nhận trực tiếp ở Phase 1, tôi bắt đầu phân tích, tổng hợp thành **Empathy Map** để xác định đúng bản chất vấn đề đằng sau những biểu hiện bề ngoài.
+Từ những dữ liệu và ghi nhận ở Phase 1, tôi bắt đầu phân tích, tổng hợp thành **Empathy Map** để xác định vấn đề đằng sau những biểu hiện bề ngoài.
 
 #### 1. Empathy Map (Sơ đồ thấu cảm)
 
@@ -225,35 +225,35 @@ Từ những dữ liệu thô và ghi nhận trực tiếp ở Phase 1, tôi b�
   * Cảm thấy bất lực và hoang mang mỗi khi bị Leader chất vấn trong phòng họp
   * Cảm thấy việc phân tích các case khó vượt quá khả năng tư duy hiện tại
   * Coi mỗi buổi presentation kéo dài là một "cuộc chiến" căng thẳng thay vì một buổi thảo luận chiến lược
-* **Pains (Điểm đau):**
-  * Thiếu tài liệu hướng dẫn cụ thể, dễ sử dụng cho quy trình phân tích mới để nhân viên dựa vào làm chuẩn
+* **Pains (Điểm yếu):**
+  * Thiếu tài liệu hướng dẫn cụ thể, dễ sử dụng và tiếp cận cho quy trình phân tích để nhân viên dựa vào
   * Lãng phí thời gian và công sức khi phải liên tục bổ sung dữ liệu và sửa bài nhiều lần
-  * Gặp nhiều áp lực tâm lý trong các buổi bảo vệ dự án với Leader
+  * Gặp nhiều áp lực tâm lý trong các buổi thuyết trình với Leader
 * **Gains (Mong muốn):**
   * Rút ngắn thời gian thuyết trình (từ >1 tiếng xuống còn 15–20 phút)
   * Tự tin bảo vệ các luận điểm phân tích với lập luận vững chắc
-  * Buổi thuyết trình diễn ra nhẹ nhàng, đạt được quyết định chốt mặt bằng (*Solid Decision*) ngay từ lần đầu
+  * Buổi thuyết trình diễn ra nhẹ nhàng, đạt được quyết định chốt/từ chối mặt bằng ngay từ đầu
 
 #### 2. Problem Statement (Tuyên bố vấn đề - POV)
-> **"Đội ngũ Analysts trẻ (Freshers/Juniors) cần một khung tư duy phân tích chuẩn hóa và môi trường tương tác hiệu quả, bởi vì họ đang thiếu một 'kim chỉ nam' logic để chuyển hóa dữ liệu thô thành các lập luận thuyết phục, dẫn đến các buổi bảo vệ dự án bị kéo dài và Leader chưa thể đưa ra quyết định. Bên cạnh đó, họ cũng cần luyên tập để năng cao năng lực phân tích thông qua tư duy phân tích và kỹ năng giải quyết vấn đề"**
+> **"Đội ngũ Analysts cần một khung tư duy phân tích chuẩn hóa và môi trường tương tác hiệu quả, bởi vì họ đang thiếu một 'kim chỉ nam' logic để chuyển hóa dữ liệu thô thành các lập luận thuyết phục, dẫn đến các buổi thuyết trình bị kéo dài và Leader chưa thể đưa ra quyết định. Bên cạnh đó, họ cũng cần luyên tập để năng cao năng lực phân tích thông qua tư duy phân tích và kỹ năng giải quyết vấn đề"**
 
-Từ Problem Statement, tôi đúc kết ra **3 Design Imperatives (Yêu cầu thiết kế giải pháp)**:
-1. Leader cần giảm bớt căng thẳng trong quá trình presentation.
-2. Bản thân các bạn Analysts cần rèn luyện tư duy logic và sự chi tiết (detail-oriented).
-3. Cần có một Framework phân tích chung chuẩn chỉnh để các analysts dựa vào.
+Từ Problem Statement, tôi đưa ra **3 Thiết kế giải pháp)** như sau:
+1. Leader cần giảm bớt căng thẳng trong quá trình presentation
+2. Bản thân các bạn Analysts cần rèn luyện tư duy logic và tính tỉ mỉ
+3. Cần có một Framework phân tích chung chuẩn chỉnh để các analysts dựa vào
 
 ### Phase 3: Ideate (Tạo ý tưởng)
 Đối chiếu với 3 Design Imperatives, tôi cùng team đào sâu tìm giải pháp:
 
 * **Xử lý Imperative 1 (Giảm căng thẳng do bị hỏi dồn):** 
-  * *Ý tưởng 1:* Giải thích lại chi tiết quy trình phân tích (Tuy nhiên, Leader đã làm nhiều lần nhưng vấn đề vẫn lặp lại).
-  * *Ý tưởng 2 (Đề xuất):* **Leader làm mẫu (Role-modeling)**. Trong các case khó, Leader sẽ trực tiếp demo cách tiếp cận, cách xử lý data và cách đưa ra kết luận logic để team học hỏi trực quan.
+  * *Ý tưởng 1:* Giải thích lại chi tiết quy trình phân tích (Tuy nhiên, Leader đã làm nhiều lần nhưng vấn đề vẫn lặp lại)
+  * *Ý tưởng 2 (Đề xuất):* **Leader làm mẫu (Role-modeling)**. Trong các case khó, Leader sẽ trực tiếp demo cách tiếp cận, cách xử lý data và cách đưa ra kết luận logic để team học hỏi trực quan
 * **Xử lý Imperative 2 (Rèn luyện tư duy logic):**
-  * Thực hiện các bài test logic định kỳ.
-  * Khuyến khích đọc thêm sách chuyên ngành.
-  * Thấu hiểu và tận dụng AI/Chatbot hỗ trợ phản biện góc nhìn.
+  * Thực hiện các bài test logic định kỳ
+  * Khuyến khích đọc thêm sách chuyên ngành
+  * Thấu hiểu và tận dụng AI/Chatbot hỗ trợ phản biện góc nhìn
 * **Xử lý Imperative 3 (Xây dựng Solid Analysis Framework):**
-  * Đây chính là **Design Imperative quan trọng nhất (Most Powerful Imperative)**: chìa khóa cốt lõi giúp giải quyết triệt để gốc rễ của mọi vấn đề.
+  * Đây chính là **Design Imperative quan trọng nhất (Most Powerful Imperative)**: chìa khóa cốt lõi giúp giải quyết triệt để gốc rễ của mọi vấn đề
 
 ### 3. Imperative 3: Sự cần thiết cho một Khung phân tích hoàn chỉnh
 
@@ -269,15 +269,15 @@ Quy trình phân tích cũ được vận hành như sau: <br><br>
     $$\rightarrow \text{Area đo lường \textbf{tiềm năng tối đa} của khu vực.}$$
 *   **Site (Vị trí mặt bằng):** Đánh giá các yếu tố nội tại của chính mặt bằng như cơ sở vật chất, độ nhận diện (Visibility), pháp lý ...
     $$\rightarrow \text{Site đo lường \textbf{khả năng tận dụng/bắt sóng} tiềm năng từ Area.}$$
-*   **Forecasted Revenue (Doanh thu dự phóng):** Dự báo doanh thu dựa trên các cửa hàng tương đồng (Analog Stores). Từ đây, Leader sẽ đưa ra quyết định sơ bộ: **GO** hoặc **REJECT**.
-*   **Financial Feasibility (Tính khả thi tài chính):** Tích hợp doanh thu dự báo vào mô hình tài chính (*Box of Economics*) để đối chiếu chi phí đầu tư với doanh thu kỳ vọng, từ đó xác định giá thuê trần hợp lý để đàm phán với chủ nhà.
+*   **Forecasted Revenue (Doanh thu dự phóng):** Dự báo doanh thu dựa trên các cửa hàng tương tự (Analog Stores). Từ đây, Leader sẽ đưa ra quyết định sơ bộ: **GO** hoặc **REJECT**.
+*   **Financial Feasibility (Tính khả thi tài chính):** Tích hợp doanh thu dự báo vào mô hình tài chính (*Box of Economics*) để đối chiếu chi phí đầu tư với doanh thu kỳ vọng, từ đó xác định giá thuê trần hợp lý để đàm phán với chủ nhà
 
 #### Những Lỗ Hổng Logic Trong Framework Cũ
 Thông qua thực tế áp dụng luồng phân tích này, tôi nhận diện được 3 vấn đề lớn:
 1.  **Thiếu cơ chế ngắt sớm (Early Kill-Switch):** Cụ thể như những mặt bằng bị vướng mắc pháp lý khó giải quyết (thông căn,...) không được ưu tiên xem xét ngay từ đầu, dẫn đến lãng phí thời gian phân tích các bước sau rồi mới REJECT
 2.  **Dự báo doanh thu thiếu cơ sở điều chỉnh:** Thông thường doanh thu dự báo từ Analog Stores sẽ được điều chỉnh dựa trên những đặc điểm của vị trí hiện tại đang phân tích. Tuy nhiên, chưa có một cơ chế rõ ràng cho việc điều chỉnh này
 
-> **Vấn đề:** Structure chưa có một logic chặt chẽ và storytelling giữa các bước. Điều này khiến các Analysts không nắm được "sợi dây logic" cốt lõi, dẫn đến không biết cần lấy thông tin nào, kết hợp ra sao và kể một câu chuyện như thế nào để bài phân tích có tính thuyết phục.
+> **Vấn đề:** Structure chưa có một logic chặt chẽ và storytelling giữa các bước. Điều này khiến các Analysts không nắm được "sợi dây logic" cốt lõi, dẫn đến không biết cần lấy thông tin nào, kết hợp ra sao và kể một câu chuyện như thế nào để bài phân tích có tính thuyết phục
 
 ### Phase 4: Prototype (Tạo mẫu)
 Thiết Kế lại Framework:
@@ -287,29 +287,29 @@ Thiết Kế lại Framework:
 
 Ma Trận Logic Giữa Các Điều Kiện: <br><br>
 
-<img width="977" height="311" alt="image" src="https://github.com/user-attachments/assets/3ce48a34-7e04-4769-921c-c46faf367ea7" />
+<img width="900" height="280" alt="image" src="https://github.com/user-attachments/assets/8c2737b3-a44c-41cd-8d71-47da19914566" />
 
 Chi Tiết Các Thành Phần Trong Framework Mới
 
 #### 1. Điều kiện cần
-*   **Legal Check:** Kiểm tra pháp lý của căn nhà, quy hoạch thương mại, điều kiện xin Giấy phép xây dựng (GPXD) và PCCC.
+*   **Legal Check:** Kiểm tra pháp lý của căn nhà, quy hoạch thương mại, điều kiện xin Giấy phép xây dựng (GPXD) và PCCC
 *   **Area Evaluation:** Ứng dụng **Hypothesis-driven Pyramid** để đánh giá toàn diện 4 trụ cột: Nhu cầu (Demand), Nguồn tạo lưu lượng (Traffic Generators), Cung ứng/Đối thủ (Supply), và Tính bền vững (Sustainability).<br><br>
 <img width="1102" height="567" alt="image" src="https://github.com/user-attachments/assets/74feb8b1-0aa0-418d-8843-dc17076d5b48" />
 
 #### 2. 1st Revenue Forecast (Adjusted by Area Difference)
-*   Xác định các Analog Stores phù hợp.
-*   So sánh sự khác biệt về Area (Nhu cầu, Traffic, Đối thủ) giữa mặt bằng mới và từng Analog Store.
-*   Gán trọng số chênh lệch để tính toán ra Mức doanh thu dự báo giai đoạn 1 ($Rev_1$).
+*   Xác định các Analog Stores phù hợp
+*   So sánh sự khác biệt về Area (Nhu cầu, Traffic, Đối thủ) giữa mặt bằng mới và từng Analog Store
+*   Gán trọng số chênh lệch để tính toán ra Mức doanh thu dự báo giai đoạn 1 ($Rev_1$)
 
 #### 3. Điều kiện đủ
 *   Đánh giá định lượng mặt bằng dựa trên ma trận chấm điểm các chỉ số: **Visibility** (Nhận diện), **Accessibility** (Tiếp cận), **Position** (Vị trí) và **Facility** (Cơ sở vật chất).<br><br>
 <img width="1140" height="597" alt="image" src="https://github.com/user-attachments/assets/59b97603-6361-436f-b066-43e2e8d57a0d" />
 
 #### 4. 2nd Revenue Forecast (Adjusted by Site Difference)
-*   Dựa trên điểm số của các yếu tố **Visibility**, **Accessibility**, và **Facility** *(loại trừ Position)* để gán trọng số chênh lệch cấp độ Site.
-*   Điều chỉnh $Rev_1$ lần cuối để đưa ra Doanh thu trung bình ngày chính xác nhất (**ADS - Average Daily Sales**).
+*   Dựa trên điểm số của các yếu tố **Visibility**, **Accessibility**, và **Facility** *(loại trừ Position)* để gán trọng số chênh lệch cấp độ Site
+*   Điều chỉnh $Rev_1$ lần cuối để đưa ra Doanh thu trung bình ngày chính xác nhất (**ADS - Average Daily Sales**)
 
 #### 5. Financial Feasibility (Box of Economics)
 *   Đưa chỉ số ADS cuối cùng vào mô hình P&L vận hành.
-*   Đối chiếu với Chi phí đầu tư ban đầu (CAPEX) và Chi phí vận hành (OPEX) để đánh giá các chỉ số hiệu quả đầu tư: **Sales/CAPEX, IRR, ROIC, Payback Period**.
-*   Tính toán Mức giá thuê trần (*Rent Threshold*) chuẩn xác làm cơ sở đàm phán hợp đồng với chủ nhà.
+*   Đối chiếu với Chi phí đầu tư ban đầu (CAPEX) và Chi phí vận hành (OPEX) để đánh giá các chỉ số hiệu quả đầu tư: **Sales/CAPEX, IRR, ROIC, Payback Period**
+*   Tính toán Mức giá thuê trần (*Rent Threshold*) chuẩn xác làm cơ sở đàm phán hợp đồng với chủ nhà
